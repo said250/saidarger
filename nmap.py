@@ -56,7 +56,7 @@ elif y==4:
      print ("instalando requerimientos")
      print ("")    
      import os
-     os.system ('sudo apt update && sudo apt upgrade ')
+     os.system (' apt update &&  apt upgrade ')
      os.system (' sudo apt install curl')
      print ("tu ip publica es...")
      print ("")
